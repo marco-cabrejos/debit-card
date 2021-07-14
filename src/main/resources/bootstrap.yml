@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: micro-debit-card
+  cloud:
+    config:
+      #uri: https://servidor-config.azurewebsites.net/
+      uri: http://localhost:8081/
